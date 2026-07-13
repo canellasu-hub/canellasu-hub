@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ulises Cañellas
 
-<!--
-**canellasu-hub/canellasu-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licenciatura en Ciencias Físicas – Universidad de Buenos Aires.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Scientific computing
+- Numerical simulations
+- Data analysis
+- Radio astronomy
+- Machine learning
+
+## Open Source Contributions
+
+### Oil Slick Detection
+Contributed to the open-source project:
+https://github.com/FedeLeonardis/oil-slick-detection
+
+Main contributions:
+- Improved the detection pipeline.
+- Implemented new processing algorithms.
+- Enhanced robustness and performance.
+- Bug fixes and code improvements.
+
+## Featured Projects
+
+- Polygon-Flux (extended and improved version)
+- ...
